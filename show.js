@@ -1,7 +1,7 @@
 let menu_down = document.getElementById("menu_down");
 let nav = document.getElementById("nav");
 function show() {
-    if (menu_down.src == "http://127.0.0.1:5500/menu_down.png")
+    if (menu_down.src == "https://moutie12.github.io/registre111/menu_down.png")
     {
     nav.style.visibility="visible";
     menu_down.src ="up.png" ;
