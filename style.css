@@ -519,3 +519,10 @@ last h3{
         width: 270px;
     }
 }
+@media (min-width:900px){
+    #nav{
+       visibility: visible;
+    }
+    .form{
+        margin-left:0px;
+}    
